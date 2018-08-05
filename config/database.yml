@@ -1,4 +1,4 @@
-<% project_name = 'assignment-tracker-api' %>
+<% project_name = 'AssignmentTracker_API' %>
 
 default: &default
   adapter: postgresql
